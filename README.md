@@ -3,7 +3,7 @@ this is a Nigerian Plate Number verification library
 
 <p>Add reference to the PlateVerifier class</p>
 
-Usage - <br/>
+## Usage - <br/>
 <code>
 var plateNumber = "FST918EG";
 </code>
@@ -24,11 +24,12 @@ Please feel free to fork this package and contribute by submitting a pull reques
 
 ## How can I thank you?
 
-Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or other social platforms? Spread the word!
+share the link for this repository on Twitter or other social platforms? Spread the word!
 
 Don't forget to [follow me on twitter](https://twitter.com/matmape)!
 
 Thanks!
+<br/>
 Matthew Idowu
 
 ## License
