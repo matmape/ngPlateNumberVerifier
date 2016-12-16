@@ -1,0 +1,7 @@
+c:\users\matmape\documents\visual studio 2013\Projects\NgPlateVerifier\NgPlateVerifier\bin\Debug\NgPlateVerifier.dll
+c:\users\matmape\documents\visual studio 2013\Projects\NgPlateVerifier\NgPlateVerifier\bin\Debug\NgPlateVerifier.pdb
+c:\users\matmape\documents\visual studio 2013\Projects\NgPlateVerifier\NgPlateVerifier\bin\Debug\Newtonsoft.Json.dll
+c:\users\matmape\documents\visual studio 2013\Projects\NgPlateVerifier\NgPlateVerifier\bin\Debug\Newtonsoft.Json.xml
+c:\users\matmape\documents\visual studio 2013\Projects\NgPlateVerifier\NgPlateVerifier\obj\Debug\NgPlateVerifier.csprojResolveAssemblyReference.cache
+c:\users\matmape\documents\visual studio 2013\Projects\NgPlateVerifier\NgPlateVerifier\obj\Debug\NgPlateVerifier.dll
+c:\users\matmape\documents\visual studio 2013\Projects\NgPlateVerifier\NgPlateVerifier\obj\Debug\NgPlateVerifier.pdb
