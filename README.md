@@ -7,6 +7,7 @@ Usage - <br/>
 <code>
 var plateNumber = "FST918EG";
 </code>
+<br/>
 <code>
 var plateInfo = NgPlateVerifier.Verifier.GetPlateInfo(plateNumber);
 </code>
