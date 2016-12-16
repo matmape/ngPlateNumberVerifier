@@ -3,7 +3,7 @@ this is a Nigerian Plate Number verification library
 
 <p>Add reference to the PlateVerifier class</p>
 
-## Usage - <br/>
+## Usage 
 <code>
 var plateNumber = "FST918EG";
 </code>
@@ -18,7 +18,8 @@ You can get some information like chassis number . For example
 <br/>
 <code>Console.WriteLine(plateInfo.Chassis);
 </code>
- ## Contributing
+<br/>
+## Contributing
 
 Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
 
