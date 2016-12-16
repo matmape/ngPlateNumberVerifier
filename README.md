@@ -1,6 +1,7 @@
 # ngPlateNumberVerifier
 this is a Nigerian Plate Number verification library
-Add reference to the PlateVerifier class
+
+<p>Add reference to the PlateVerifier class</p>
 
 Usage - 
 
