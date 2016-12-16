@@ -6,6 +6,8 @@ this is a Nigerian Plate Number verification library
 Usage - <br/>
 <code>
 var plateNumber = "FST918EG";
+</code>
+<code>
 var plateInfo = NgPlateVerifier.Verifier.GetPlateInfo(plateNumber);
 </code>
 <br/>
