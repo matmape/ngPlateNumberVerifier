@@ -18,5 +18,20 @@ You can get some information like chassis number . For example
 <br/>
 <code>Console.WriteLine(plateInfo.Chassis);
 </code>
- 
+ ## Contributing
+
+Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
+
+## How can I thank you?
+
+Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or other social platforms? Spread the word!
+
+Don't forget to [follow me on twitter](https://twitter.com/matmape)!
+
+Thanks!
+Matthew Idowu
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
